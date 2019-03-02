@@ -1,4 +1,5 @@
-def my_each(["Garfield", "Otis", "Milo", "Fido", "Air Bud])
+def my_each([1, 2, 3, 4])
   i = 0 
   
+  while 
 end
