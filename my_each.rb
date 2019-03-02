@@ -1,3 +1,4 @@
-def my_each # put argument(s) here
+def my_each(["Garfield", "Otis", "Milo", "Fido", "Air Bud])
+  i = 0 
   
 end
